@@ -2,7 +2,7 @@
 
 systems programming • low-level stuff • making computers suffer
 
-- mostly C / C++
+- mostly C / C++ (sometimes python)
 - enjoy low-level, engines, compilers, tooling
 - break things to understand them
 - hate compilers
