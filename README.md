@@ -8,19 +8,19 @@ systems programming • low-level stuff • making computers suffer
 - hate compilers
 - game dev & scripting when i’m bored
 
----
+## currently learning
+- compiler optimizations
+- memory allocators
+- operating systems internals
 
-# stats
+
+## stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrpavi7&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrpavi7&layout=compact&theme=dark)
 
-
-
----
-
-### Languages
+### languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -28,4 +28,23 @@ systems programming • low-level stuff • making computers suffer
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-> “if it compiles, it’s correct enough”
+### tools
+
+![GCC](https://img.shields.io/badge/GCC-111111?style=for-the-badge&logo=gnu)
+
+![Clang](https://img.shields.io/badge/Clang-111111?style=for-the-badge&logo=llvm)
+
+![CMake](https://img.shields.io/badge/CMake-111111?style=for-the-badge&logo=cmake)
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+
+### environment
+
+- OS: Windows / Linux
+
+- Editor: VS Code / Vim
+
+- Shell: Bash / PowerShell
+
+
+> “if it works, dont touch it”
