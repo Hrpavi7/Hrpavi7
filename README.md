@@ -1,7 +1,7 @@
 # hi, i'm hrpavi
 
-> systems programming • low-level stuff • making computers suffer
-> 
+systems programming • low-level stuff • making computers suffer
+
 - mostly C / C++
 - enjoy low-level, engines, compilers, tooling
 - break things to understand them
@@ -12,11 +12,11 @@
 
 # stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hrpavi&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrpavi7&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrpavi&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrpavi7&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hrpavi&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hrpavi7&theme=dark)
 
 ---
 
