@@ -1,4 +1,4 @@
-# hi, i'm hrpavi
+# Hi, i'm hrpavi
 
 systems programming • low-level stuff • making computers suffer
 
@@ -8,19 +8,21 @@ systems programming • low-level stuff • making computers suffer
 - hate compilers
 - game dev & scripting when i’m bored
 
-## currently learning
+## Currently learning
 - compiler optimizations
 - memory allocators
 - operating systems internals
 
 
-## stats
+## Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrpavi7&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrpavi7&layout=compact&theme=dark)
 
-### languages
+## I use
+
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -28,7 +30,7 @@ systems programming • low-level stuff • making computers suffer
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### tools
+### Tools
 
 ![GCC](https://img.shields.io/badge/GCC-111111?style=for-the-badge&logo=gnu)
 
@@ -38,7 +40,7 @@ systems programming • low-level stuff • making computers suffer
 
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 
-### environment
+### Environment
 
 - OS: Windows / Linux
 
