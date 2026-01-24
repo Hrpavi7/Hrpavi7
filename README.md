@@ -16,7 +16,8 @@ systems programming • low-level stuff • making computers suffer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrpavi7&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hrpavi7&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hrpavi7)
+
 
 ---
 
