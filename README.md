@@ -1,5 +1,7 @@
 # Hi, i'm hrpavi
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+don't+touch+grass)](https://git.io/typing-svg)
+
 systems programming • low-level stuff • making computers suffer
 
 - mostly C / C++ (sometimes python)
