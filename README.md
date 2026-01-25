@@ -48,7 +48,7 @@ systems programming • low-level stuff • making computers suffer
 
 - Editor: VS Code / Vim
 
-- Shell: Bash / PowerShell
+- Shell: Powershell / Bash
 
 You can contact me at [Discord](https://discord.gg/p9wRagxQWt)
 or at hrpavi77@gmail.com
