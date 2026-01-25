@@ -51,6 +51,6 @@ systems programming • low-level stuff • making computers suffer
 - Shell: Bash / PowerShell
 
 You can contact me at [Discord](https://discord.gg/p9wRagxQWt)
-Or at hrpavi77@gmail.com
+or at hrpavi77@gmail.com
 
 > “if it works, dont touch it”
