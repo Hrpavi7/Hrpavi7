@@ -15,32 +15,32 @@ systems programming • low-level stuff • making computers suffer
 - memory allocators
 - operating systems internals
 
+<details>
+  <summary><h2>Statistics</h2></summary>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrpavi7&show_icons=true&theme=dark)
 
-## Statistics
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrpavi7&layout=compact&theme=dark)
+</details>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrpavi7&show_icons=true&theme=dark)
+<details>
+  <summary><h2>Setup</h2></summary
+  ### Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrpavi7&layout=compact&theme=dark)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## I use
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Languages
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ### Tools
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![GCC](https://img.shields.io/badge/GCC-111111?style=for-the-badge&logo=gnu)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Clang](https://img.shields.io/badge/Clang-111111?style=for-the-badge&logo=llvm)
 
-### Tools
+  ![CMake](https://img.shields.io/badge/CMake-111111?style=for-the-badge&logo=cmake)
 
-![GCC](https://img.shields.io/badge/GCC-111111?style=for-the-badge&logo=gnu)
-
-![Clang](https://img.shields.io/badge/Clang-111111?style=for-the-badge&logo=llvm)
-
-![CMake](https://img.shields.io/badge/CMake-111111?style=for-the-badge&logo=cmake)
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+  ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 
 ### Environment
 
@@ -49,6 +49,8 @@ systems programming • low-level stuff • making computers suffer
 - Editor: VS Code / Vim
 
 - Shell: Powershell / Bash
+
+</details>
 
 You can contact me at [Discord](https://discord.gg/p9wRagxQWt)
 or at hrpavi77@gmail.com
