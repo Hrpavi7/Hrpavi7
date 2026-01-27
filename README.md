@@ -17,6 +17,7 @@ systems programming • low-level stuff • making computers suffer
 
 <details>
   <summary><h2>Statistics</h2></summary>
+  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrpavi7&show_icons=true&theme=dark)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrpavi7&layout=compact&theme=dark)
