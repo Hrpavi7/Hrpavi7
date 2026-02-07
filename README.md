@@ -15,16 +15,13 @@ systems programming • low-level stuff • making computers suffer
 - memory allocators
 - operating systems internals
 
-<details>
-  <summary><h2>Statistics</h2></summary>
+## Statistics
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrpavi7&show_icons=true&theme=dark)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrpavi7&layout=compact&theme=dark)
-</details>
 
-<details>
-  <summary><h2>Setup</h2></summary
+## Setup
   ### Languages
 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -50,8 +47,6 @@ systems programming • low-level stuff • making computers suffer
 - Editor: VS Code / Vim
 
 - Shell: Powershell / Bash
-
-</details>
 
 You can contact me at [Discord](https://discord.gg/p9wRagxQWt)
 or at hrpavi77@gmail.com
